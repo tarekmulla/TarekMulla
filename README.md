@@ -4,9 +4,9 @@
 
   Throughout my career, I lent my expertise to various industries, including financial, telecommunication, and government. I have assisted businesses in these industries in migrating their systems to the cloud, implementing security controls, and safeguarding their sensitive data against cyber threats.
   
-  I am currently pursuing a master's degree in cybersecurity at RMIT University.
+  I am currently pursuing a master's degree in cybersecurity at [RMIT University](https://www.rmit.edu.au/).
   
-  I try to stay up to date with the latest industry trends and consistently enhance my skills through ongoing professional development and certifications.
+  I try to stay up to date with the latest industry trends and consistently enhance my skills through ongoing professional development and certifications. You can check the full list of badges in [Credly](https://www.credly.com/users/tarek-mulla/badges).
 
 📫 How to reach me:
 * 👔 Linkedin: [Tarek Mulla](https://www.linkedin.com/in/tarekmulla/)
