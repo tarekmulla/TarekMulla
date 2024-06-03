@@ -1,12 +1,10 @@
 👋 Hi, I’m @tarekmulla
 
-🚀 I am a professional platform engineer and cybersecurity enthusiast! I have a deep understanding of DevOps, Security best practices, and Cloud solutions implementation.
+🚀 I am an experienced platform and cybersecurity engineer skilled in DevSecOps, Cloud solutions, and Security best practices. His career has spanned various industries, including finance, telecommunications, and government sectors, where I have played a crucial role in migrating systems to the cloud, implementing robust security controls, and ensuring compliance with security standards.
 
-  Throughout my career, I lent my expertise to various industries, including financial, telecommunication, and government. I have assisted businesses in these industries in migrating their systems to the cloud, implementing security controls, and safeguarding their sensitive data against cyber threats.
-  
-  I am currently pursuing a master's degree in cybersecurity at [RMIT University](https://www.rmit.edu.au/).
-  
-  I try to stay up to date with the latest industry trends and consistently enhance my skills through ongoing professional development and certifications. You can check the full list of badges in [Credly](https://www.credly.com/users/tarek-mulla/badges).
+I hold a Master's degree in Cybersecurity from RMIT University and am currently pursuing a Master of Business Analytics with a specialization in Artificial Intelligence at Deakin University.
+
+In addition to my academic qualifications, I have earned several prestigious certifications, including AWS Solutions Architect Professional, AWS Security Specialty, Kubernetes Security Specialist, and Project Management Professional (PMP).
 
 📫 How to reach me:
 * 👔 Linkedin: [Tarek Mulla](https://www.linkedin.com/in/tarekmulla/)
