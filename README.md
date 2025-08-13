@@ -1,8 +1,6 @@
 👋 Hi, I’m @tarekmulla
 
-🚀 Experienced Platform and Cybersecurity professional specializing in DevSecOps, cloud solutions, and cybersecurity governance. 
-Proven ability to lead cloud solutions development across finance, telecommunications, and government sectors, successfully delivering secure cloud migrations, implementing strategic security frameworks, and ensuring compliance with industry-critical standards. 
-Adept at fostering collaborative environments, enhancing team performance, and regularly contributing insights as a speaker at the Australian Cyber Conference. Holds a Master's degree in Cybersecurity along with professional AWS certifications.
+🚀 Cybersecurity and Cloud Expert with deep experience designing and securing cloud architectures. Successfully led cloud development and migration projects, ensuring compliance with Australian and international security standards. Focused on embedding security throughout the development lifecycle and aligning security strategy with business objectives. Strong track record in risk analysis, stakeholder engagement, and communicating security priorities to executive leadership. Regular speaker at the Australian Cyber Conference. Holds a Master’s degree in Cybersecurity, AWS Professional certifications, and is recognised as a Certified Professional (Cybersecurity) by the Australian Computer Society.
 
 📫 How to reach me:
 * 👔 Linkedin: [Tarek Mulla](https://www.linkedin.com/in/tarekmulla/)
